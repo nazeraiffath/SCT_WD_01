@@ -1,0 +1,51 @@
+# SkillCraft Technology Responsive Landing Page
+
+A modern and responsive landing page built using HTML, CSS, and JavaScript.
+
+
+## Overview
+
+This project is a modern and responsive landing page developed for SkillCraft Technology using HTML, CSS, and JavaScript. The website is designed to provide an engaging user experience with a clean interface, smooth navigation, and interactive elements.
+
+## Features
+
+* Responsive design for desktop, tablet, and mobile devices
+* Fixed navigation bar with scroll effects
+* Smooth scrolling navigation
+* Modern blue and purple color theme
+* Technology domains section
+* Features and achievements section
+* Student reviews section
+* Contact form
+* Application form
+* Hover animations and interactive UI elements
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+## Project Structure
+
+* index.html
+* style.css
+* script.js
+
+## Learning Outcomes
+
+Through this project, I gained experience in:
+
+* Creating responsive web layouts
+* Designing modern user interfaces
+* Implementing interactive navigation menus
+* Organizing code into separate HTML, CSS, and JavaScript files
+* Building professional landing pages
+
+## Author
+
+Nazara Iffath
+
+## License
+
+This project is created for educational and internship purposes.
